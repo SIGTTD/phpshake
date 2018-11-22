@@ -1,0 +1,13 @@
+{
+    "name": "sigttd/phpshake",
+    "type": "project",
+    "license": "proprietary",
+	"autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
